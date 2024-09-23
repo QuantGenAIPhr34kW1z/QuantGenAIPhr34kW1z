@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=ffff00&width=380&height=28&lines=Ahoy!+👋+I'm+a+Veteran+Developer,+Tinkerer,+and+Radio+Amateur;+Open-Source+Maverick;+forever+in+a+state+of+perpetual+learning+and+innovation..&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=ffff00&width=780&height=28&lines=Ahoy!+👋+I'm+a+Veteran+Developer,+Tinkerer,+and+Radio+Amateur;+Open-Source+Maverick;+forever+in+a+state+of+perpetual+learning+and+innovation..&center=true"></a></p>
     
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/QuantGenAIPhr34kW1z) 
