@@ -1,7 +1,3 @@
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=ffff00&width=780&height=38&lines=Ahoy!+👋+I'm+a+Veteran+Developer,+Tinkerer,+and+Radio+Amateur;+Open-Source+Maverick;+forever+in+a+state+of+perpetual+learning+and+innovation..&center=true"></a></p>
--->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=25&pause=2000&color=F7E462&center=true&multiline=true&width=435&height=95&lines=Ahoy!+👋+I'm+a+Veteran+Developer,+Tinkerer,+and+Radio+Amateur;+Open-Source+Maverick;+forever+in+a+state+of+perpetual+learning+and+innovation..)](https://git.io/typing-svg)
 
     
