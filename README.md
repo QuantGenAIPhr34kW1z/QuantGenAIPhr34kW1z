@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=25&pause=2000&color=F7E462&center=true&multiline=true&width=835&height=95&lines=Ahoy!+👋+Here+to+be+a+Veteran+Developer,+Software+Architect,+Tinkerer,+and+Radio+Amateur;+Open-Source+Maverick—and+hold+my+Schrödinger's+cat,+did+I+mention+theoretical+physicist?;+forever+in+a+state+of+perpetual+learning+and+boundless+innovation..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=25&pause=2000&color=F7E462&center=true&multiline=true&width=835&height=95&lines=Ahoy!+👋+Here+to+be+a+Veteran+Developer,+Software+Architect,+Tinkerer,+and+Radio+Amateur;+Open-Source+Maverick—and,+hold+my+Schrödinger's+cat,+did+I+mention+theoretical+physicist?;+forever+in+a+state+of+perpetual+learning+and+boundless+innovation..)](https://git.io/typing-svg)
 
     
 ## 🌐 Socials:
