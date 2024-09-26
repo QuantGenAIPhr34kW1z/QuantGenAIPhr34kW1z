@@ -13,6 +13,7 @@
 
 ## AI Powered..
 ![AI Powered](AI_Power.png)
+<div style="text-align: right"> …mirabel futurum ?</div>
 
 <!--
 ## 🏆 GitHub Trophies
