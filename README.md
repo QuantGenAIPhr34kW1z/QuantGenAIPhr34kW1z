@@ -323,27 +323,15 @@ currently:
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=QuantGenAIPhr34kW1z&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</a>
+![GitHub Streak](https://streak-stats.demolab.com?user=QuantGenAIPhr34kW1z&theme=tokyonight&hide_border=true&border_radius=10)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=QuantGenAIPhr34kW1z&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=QuantGenAIPhr34kW1z&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuantGenAIPhr34kW1z&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages" />
-
-</div>
-
----
-
-## `// ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=QuantGenAIPhr34kW1z&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuantGenAIPhr34kW1z&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=10)
 
 </div>
 
