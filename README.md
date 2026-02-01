@@ -323,25 +323,17 @@ currently:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=QuantGenAIPhr34kW1z&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=QuantGenAIPhr34kW1z&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=QuantGenAIPhr34kW1z&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=QuantGenAIPhr34kW1z&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantGenAIPhr34kW1z&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages" />
-
-</div>
-
----
-
-## `// CONTRIBUTIONS`
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=QuantGenAIPhr34kW1z&theme=tokyo-night&hide_border=true&radius=10)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=QuantGenAIPhr34kW1z&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=10" alt="Top Languages" />
 
 </div>
 
@@ -351,7 +343,7 @@ currently:
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=QuantGenAIPhr34kW1z&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)
+<img src="https://github-profile-trophy.vercel.app/?username=QuantGenAIPhr34kW1z&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
