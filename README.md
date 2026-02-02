@@ -1,6 +1,6 @@
 <div align="center">
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner/banner.dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/banner/banner.light.svg">
